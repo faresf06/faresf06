@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @faresf06
-- 👀 I’m interested in cybersecurity, video games, streaming.
-- 🌱 I’m currently learning pentesting
+🧑‍💻 Dev Full-Stack & Fondateur @Apsov | SaaS · IA · Cybersécurité
+Créateur de Qualify CRM & JeuxVideal | ZeraxIA
 
 <!---
 faresf06/faresf06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
