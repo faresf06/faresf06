@@ -1,5 +1,5 @@
 🧑‍💻 Dev Full-Stack & Fondateur @Apsov | SaaS · IA · Cybersécurité
-Créateur de Qualify CRM & JeuxVideal | ZeraxIA
+Créateur de Qualify CRM & JeuxVideal
 
 <!---
 faresf06/faresf06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
